@@ -11,7 +11,7 @@ mydb = mysql.connector.connect(
     password="Sunooja@0218sql",
     database="data_analysis"
 )
-
+#Hey
 cursor = mydb.cursor()
 cursor.execute("""SELECT * FROM internet_price
                LIMIT 10""")
