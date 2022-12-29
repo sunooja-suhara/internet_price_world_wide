@@ -1,5 +1,10 @@
 # internet_price_world_wide
 
+
+![alt text](/home/sunooja/Pictures/internet_image.webp)
+
+
+
 Welcome to the Internet Price Analysis project! In this project, we will be examining the cost of internet service in various countries around the world using Python and MySQL.
 
 Access to the internet has become increasingly important in recent years, as it allows individuals to connect with others, access information, and complete various tasks online. However, the cost of internet service can vary significantly depending on where you live. Some countries have relatively affordable internet prices, while others have much higher costs.
