@@ -1,7 +1,9 @@
 # internet_price_world_wide
 
 
- file:///home/sunooja/Downloads/pexels-lukas-590022.jpg
+<img src="/home/sunooja/Downloads/pexels-lukas-590022.jpg" width="60%">
+
+ 
 
 
 
