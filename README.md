@@ -1,7 +1,7 @@
 # internet_price_world_wide
 
 
-![alt text](/home/sunooja/Pictures/internet_image.webp)
+![alt text](/home/sunooja/Downloads/pexels-lukas-590022.jpg)
 
 
 
