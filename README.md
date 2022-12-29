@@ -1,7 +1,7 @@
 # internet_price_world_wide
 
 
-<img src="/home/sunooja/Downloads/pexels-lukas-590022.jpg" width="60%">
+<img src="https://www.pexels.com/photo/close-up-photo-of-survey-spreadsheet-590022/" width="60%">
 
  
 
