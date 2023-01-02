@@ -1,7 +1,7 @@
 # internet_price_world_wide
 
 
-<img src="https://github.com/sunooja-suhara/internet_price_world_wide/blob/main/pexels-lukas-590022.jpg" width="80%">
+<img src="https://github.com/sunooja-suhara/internet_price_world_wide/blob/main/pexels-lukas-590022.jpg" width="60%">
 
  
  
