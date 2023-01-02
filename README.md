@@ -1,10 +1,10 @@
 # internet_price_world_wide
 
 
-<img src="https://user-images.githubusercontent.com/105748301/183286751-32288963-1af8-4d9f-addd-de07a2152fd3.png" width="60%">
+<img src="file:///home/sunooja/Downloads/pexels-lukas-590022.jpg" width="60%">
 
  
- file:///home/sunooja/Downloads/pexels-lukas-590022.jpg
+ 
 
 
 Welcome to the Internet Price Analysis project! This project is to examine the cost of internet service in various countries around the world using Python and MySQL.
