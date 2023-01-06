@@ -1,4 +1,4 @@
-# internet_price_world_wide
+# Internet Price World Wide
 
 
 <img src="https://github.com/sunooja-suhara/internet_price_world_wide/blob/main/pexels-lukas-590022.jpg" width="60%">
